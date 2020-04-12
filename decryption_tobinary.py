@@ -1,4 +1,4 @@
-import binascii
+
 print("type the encoded messsage here")
 encoded = input()
 array = []
